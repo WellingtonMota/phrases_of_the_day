@@ -1,16 +1,18 @@
-# phrases_of_the_day
+# APP Drinks do dia
 
-A new Flutter project.
+Mini projeto de aprendizado.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Segue lista de drinks:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    - 'White Russian'
+    - 'Bellini'
+    - 'Champagne Cocktail'
+    - 'Irish Coffee'
+    - 'Bamboo'
+    - 'Gin Gin Mule'
+    - 'Long Island Ice Tea'
+    - 'Vesper Martini'
+    - 'Caipirinha'
+    - 'Tom Collins'
